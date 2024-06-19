@@ -26,11 +26,5 @@ To run the notebook, you will need the following Python packages:
 
 The notebook is structured as follows:
 
-Introduction: Overview of the project objectives and tasks.
-Image Loading and Display: Loading and displaying images using OpenCV.
-Image Transformation: Applying geometric transformations such as scaling, rotation, and translation.
-Image Enhancement: Enhancing images using techniques like histogram equalization and filtering.
-Feature Detection: Detecting features such as edges, corners, and contours in images.
-Conclusion: Summary of findings and insights gained from the analysis.
-Summary of Results
+
 The project demonstrated various image processing operations using OpenCV, including loading and displaying images, applying geometric transformations, enhancing images, and detecting features. These operations showcase the capabilities of OpenCV for image analysis and computer vision tasks.
